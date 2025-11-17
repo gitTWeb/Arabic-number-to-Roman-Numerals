@@ -3,7 +3,7 @@ This project is a  C++ program that converts an integer between 1 and 3999 into 
 
 The project uses array indexing, loops, and string manipulation in C++.
 
-The projec has nesecary libraries like:
+The projec has nessecary libraries like:
 iostream — Handles input and output operations.
 
 string — Allows use of strings for constructing Roman numerals.
