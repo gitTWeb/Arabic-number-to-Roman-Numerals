@@ -38,13 +38,21 @@ The Loop continues until the user enters anything other than 'Y' or 'y'.
 
 
 Example run:
+
 convert number?: Y
+
 enter number: 1987
+
 the result is: MCMLXXXVII
+
 would you like to continue?: Y
+
 enter number: 3999
+
 the result is: MMMCMXCIX
+
 would you like to continue?: N
+
 
 
 https://github.com/user-attachments/assets/ee80dd74-a700-4c33-8257-e690bb67d27a
