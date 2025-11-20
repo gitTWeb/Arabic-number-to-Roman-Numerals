@@ -1,9 +1,10 @@
 # Arabic-number-to-Roman-Numerals
-This project is a  C++ program that converts an integer between 1 and 3999 into its Roman numeral equivalent. The program repeatedly prompts users for a numbers until they choose to stop.
+This project is a C++ program that converts an integer between 1 and 3999 into its roman numeral equivalent. The program repeatedly prompts users for a numbers until they choose to stop.
 
 The project uses array indexing, loops, and string manipulation in C++.
 
 The projec has nessecary libraries like:
+
 iostream — Handles input and output operations.
 
 string — Allows use of strings for constructing Roman numerals.
